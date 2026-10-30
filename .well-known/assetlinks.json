@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.josep.finanzas",
+        "sha256_cert_fingerprints": ["C3:59:86:2B:0D:3A:29:BF:D2:66:D1:0C:83:E4:21:12:CD:3B:8D:B5:42:4B:D7:4A:00:FF:6B:67:73:DC:14:B4"]
+      }
+    }]
